@@ -39,6 +39,10 @@ columns as they were deemed unnecessary
 for further analysis. Finally, I applied
 min-max scaling to normalize the data.
 
+![Image1](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/c88bc40b-6be9-4e88-9922-038970e7b76d)
+
+![Image2](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/436b1ff9-f905-4591-bed5-c8bca56e9f72)
+
 #### Splitting dataset into training and testing sets
 Finally, I divided the dataset into training
 and testing subsets. This division facilitates
@@ -47,12 +51,21 @@ is trained on one subset and tested on
 another, allowing for a more accurate
 assessment of its performance.
 
+![Image3](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/23b4ce63-459e-42b0-a758-e74d85395765)
+
+
 ### Data Visualization
 #### Visual Plots
 In exploring the dataset, I employed
 histograms and boxplots to understand the
 distribution and variability of numerical
 features.
+![Image4](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/f6261169-b2b0-4ad2-93b1-a485379bc12a)
+
+![Image5](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/844f7c39-1968-4ff2-a4e3-fa49edd0381c)
+
+
+
 
 #### Class Distribution & Class Imbalance
 Understanding class distribution is pivotal
@@ -66,6 +79,12 @@ and making accurate predictions. Employing
 the resampling technique of undersampling
 addressed imbalance, with visualizations
 gauging the effectiveness of these strategies.
+
+![Image6](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/2f1fcacf-7922-403b-9bd7-d0938e2c6225)
+
+
+![Image7](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/ddc97a60-2cfc-4356-9b4d-f1acde291f4a)
+
 
 ### Model Development
 #### Naive Bayes Algorithm
@@ -143,6 +162,12 @@ Additionally, I analyzed the ROC curve and
 confusion matrix, providing a visual and
 detailed understanding of the model's
 classification performance.
+
+![Image8](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/3188a3b0-6893-459d-b8f9-a142c66fe990)
+
+![Image9-11](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/abd410c6-9399-47a3-977c-f9758b998fbf)
+
+![Image12](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/6a662fa8-a384-4cbd-ad71-65af50bad2a4)
 
 ### Reflection and Insights
 Reflecting on the model performance, I
