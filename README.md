@@ -60,6 +60,7 @@ In exploring the dataset, I employed
 histograms and boxplots to understand the
 distribution and variability of numerical
 features.
+
 ![Image4](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/f6261169-b2b0-4ad2-93b1-a485379bc12a)
 
 ![Image5](https://github.com/shivam-chavan-05/Chronic-Heart-Failure-Prediction/assets/144063863/844f7c39-1968-4ff2-a4e3-fa49edd0381c)
