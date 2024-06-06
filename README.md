@@ -1,5 +1,6 @@
 # Binary Classification with Naive Bayes
 
+
 ### Introduction
 In this report, I will present the
 methodology, results, and insights from
