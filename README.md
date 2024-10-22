@@ -1,4 +1,4 @@
-# Binary Classification with Naive Bayes
+# *Binary Classification with Naive Bayes*
 
 
 ### Introduction
