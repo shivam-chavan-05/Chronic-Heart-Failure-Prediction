@@ -1,7 +1,7 @@
 # *Binary Classification with Naive Bayes*
 
 
-### Introduction
+### Introduction 
 In this report, I will present the
 methodology, results, and insights from
 developing a binary classification model
