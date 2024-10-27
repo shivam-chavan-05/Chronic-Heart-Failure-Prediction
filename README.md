@@ -3,7 +3,7 @@
 
 ### Introduction 
 In this report, I will present the
-methodology, results, and insights from
+methodologies, results, and insights from
 developing a binary classification model
 using the Naive Bayes algorithm. The
 objective of this assignment was to gain
